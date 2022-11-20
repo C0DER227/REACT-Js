@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo-img{
+    height: 7%;
+    width: 7%;
+    position: relative;
+    top: 20px;
+    cursor: pointer;
+
+}
+.top{
+    display: flex;
+    justify-content: flex-end;
+    gap: 50px;
+    align-items: center;
+    cursor: pointer;
+}
+.ul-items:hover{
+    text-decoration: underline;
+}
+li{
+    list-style: none;
+}
+.btn{
+    text-transform: capitalize;
+    background-color: blue;
+    color: #fff;
+    height: 50px;
+    position: relative;
+    bottom: 10px;
+    cursor: pointer;
+}
+.btn:hover{
+    text-decoration: underline;
+}
+
+

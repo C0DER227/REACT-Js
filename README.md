@@ -33,3 +33,14 @@ Beginner to Advanced
 #createDigits,delete,calculate,updateCalc
 #eval function
 #tostring
+
+5.My-Crypto price tracker app
+
+url(price-tracker):https://api.coinstats.app/public/v1/coins
+url(news-tracker):https://api.coinstats.app/public/v1/news
+
+.Concepts used:
+#JSX,Buttons
+#Axios
+#toFixed
+#Calling Properties...
