@@ -29,6 +29,7 @@ li{
     color: #fff;
     height: 50px;
     position: relative;
+    right: 25px;
     bottom: 10px;
     cursor: pointer;
 }

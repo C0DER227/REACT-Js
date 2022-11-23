@@ -16,7 +16,7 @@ function App() {
 
 
   useEffect(() => {
-    Axios.get("https://api.coinstats.app/public/v1/coins?currency=INR").then(
+    Axios.get("https://api.coinstats.app/public/v1/coins?currency=INR?limit=20").then(
       (res) => {
         setListOfCoins(res.data.coins);
       }
